@@ -1,0 +1,20 @@
+Toyota Camry, 2011 1 330 000 
+Peugeot Traveller, 2017 2 700 000 
+Toyota Corolla, 2002 350 000 
+Great Wall Hover H3, 2011 533 000 
+Hyundai Accent, 2006 259 000 
+Toyota Corona Premio, 2001 329 000 
+Ford Fusion, 2005 339 000 
+Chery Tiggo T11, 2013 507 000 
+Geely MK, 2011 263 000 
+Лада Гранта, 2012 299 000 
+Land Rover Range Rover Velar, 2019 5 150 000 
+Hyundai Tucson, 2021 3 180 000 
+Volkswagen Caddy, 2018 2 150 000 
+Audi A6 allroad quattro, 2003 480 000 
+Volkswagen Polo, 2019 939 000 
+Toyota Corolla, 2012 989 000 
+Nissan Teana, 2012 1 050 000 
+Mitsubishi ASX, 2012 1 030 000 
+Лада Веста, 2016 669 000 
+Mitsubishi Pajero, 2006 1 024 990 
